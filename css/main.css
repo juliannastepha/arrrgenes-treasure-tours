@@ -35,7 +35,7 @@ a:focus {
   outline: 3px solid #fff;
 }
 
-nav a:focus {
+.nav a:focus {
   outline: 3px solid #fff;
 }
 
@@ -47,6 +47,11 @@ nav a:focus {
 .banner {
   min-height: 16em;
   color: #fff;
+  background-color: #522806;
+}
+
+.btn:focus {
+  outline: 3px solid #fff;
 }
 
 .card {
